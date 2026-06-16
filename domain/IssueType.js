@@ -1,0 +1,10 @@
+export const IssueType = {
+    PAYMENT: 'PAYMENT',
+    TECHNICAL: 'TECHNICAL',
+    ACCOUNT: 'ACCOUNT',
+    SHIPPING: 'SHIPPING',
+    INSURANCE: 'INSURANCE',
+    EQUITY: 'EQUITY',
+    MUTUAL_FUNDS: 'MUTUAL_FUNDS',
+    OTHER: 'OTHER',
+}
